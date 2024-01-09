@@ -3,4 +3,11 @@ print('hello world')
 # change 1
 print('hello justin')
 print('hello Paolo')
-print('new code')
+
+
+
+def addFunc(a, b):
+    return a+b
+
+
+print(addFunc(2, 3))
